@@ -14,6 +14,6 @@ public class WwwApplication {
 	}
 @GetMapping
 public String index() {
-	return "aaaaaaaa22222dssdsdsddsaa";
+	return "master33333";
 }
 }
